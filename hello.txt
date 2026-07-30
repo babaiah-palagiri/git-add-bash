@@ -1,3 +1,4 @@
 Hello Git!!
 Hi, 2nd time updated
 added feature-1 branch
+NEW MERGE
