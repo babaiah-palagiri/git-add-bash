@@ -1,0 +1,9 @@
+Hello Git!!
+Hi, 2nd time updated
+<<<<<<< HEAD
+added feature-1 branch
+NEW MERGE
+=======
+added feature-1
+>>>>>>> feature-1
+BABAIAh-PALAGIRI
